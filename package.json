@@ -4,7 +4,8 @@
   "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
   "main": "webpack.config.js",
   "scripts": {
-    "serve": "webpack serve"
+    "serve": "webpack serve",
+    "start": "webpack serve --open"
   },
   "repository": {
     "type": "git",
