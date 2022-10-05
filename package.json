@@ -4,6 +4,7 @@
   "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
   "main": "webpack.config.js",
   "scripts": {
+    "test": "jest",
     "serve": "webpack serve",
     "start": "webpack serve --open"
   },
@@ -41,6 +42,7 @@
     "webpack-dev-server": "^4.11.1"
   },
   "dependencies": {
+    "jest": "^29.1.2",
     "lodash": "^4.17.21"
   }
 }
