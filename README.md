@@ -1,12 +1,12 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Portfolio Mobile Full Version"
+# Todo List using Javascript"
 
 > This is an Educational repository, for learning how to install and implement the Webpack, Webpack-CLI and the Webpack-dev-server for a project. This project is written in Javascript with minimal npm scripts and commands. It is a minimal implementation of a To Do list application.
 
 ## Built With
 
-- Html and CSS
+- Javascript
 
 ## Author
 
@@ -18,7 +18,7 @@ Twitter: [https://twitter.com ](https://twitter.com)
 
 ## Live project Link
 
-[Live Demo]()
+[Live Demo](https://black-star-0483.on.fleek.co/dist/)
 
 ## 🤝 Contributing
 
