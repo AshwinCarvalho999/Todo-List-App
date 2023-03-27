@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Todo List using Javascript"
+# Todo List App
 
 > This is an Educational repository, for learning how to install and implement the Webpack, Webpack-CLI and the Webpack-dev-server for a project. This project is written in Javascript with minimal npm scripts and commands. It is a minimal implementation of a To Do list application.
 
